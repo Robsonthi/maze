@@ -1,2 +1,9 @@
 # maze
- sSolving maze with searching algorithms
+ Solving maze with searching algorithms
+
+
+## How to use?
+
+ type_search: 'dfs', 'bfs', 'greedy' or 'a*'
+
+ sort: 'default' or 'heap'
