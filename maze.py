@@ -222,7 +222,7 @@ if __name__=='__main__':
 	maze.solve(win,my_pen)
 	my_pen.clear()
 	maze.draw_solution(my_pen)
-	print('Length of way:',len(maze.solution))
+	print('Path length:',len(maze.solution))
 	print('Positions explored:',maze.num_explored)
 	win.update()
 	#time.sleep(0.1)
